@@ -1,6 +1,17 @@
 # project-s3-t4-textbooks
 
-## An app that provides textbooks for sale with their price and condition from the school bookstore, amazon, and students' used textbooks that they can sell on the app as well giving students the ability to check a few options for textbooks in one spot.
+
+We are using REACT 
+
+
+## An app that provides textbooks for sale with their price and condition from the school bookstore, amazon, and students' used textbooks that they can sell on the app as well giving students the ability to check a few options for textbooks in one spot.Buyers can search books by Search by name class etc. Sellers can post book imformation(ISBN, picture etc.).
+
+
+#BUYING: Search by book name, class id, class category, professor name.
+
+#SELLING: Creat cateogries, let users put the book into different category. people need to input ISBN(optional). put pictures. 
+
+
 
 # Team Members
 * Shaurye Mahajan - shauryem
