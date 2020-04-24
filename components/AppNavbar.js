@@ -18,12 +18,9 @@ function AppNavbar(props) {
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
           <Nav className="mr-auto">
-            <Link href="/woof" passHref={true}>
-              <Nav.Link>Random Dog</Nav.Link>
-            </Link>
             {user && (
-              <Link href="/woof-private" passHref={true}>
-                <Nav.Link>Random Dog with Auth</Nav.Link>
+              <Link href="/sellers" passHref={true}>
+                <Nav.Link>My Posts</Nav.Link>
               </Link>
             )}
           </Nav>
