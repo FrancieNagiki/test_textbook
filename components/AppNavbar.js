@@ -19,7 +19,7 @@ function AppNavbar(props) {
         <Navbar.Collapse className="justify-content-end">
           <Nav className="mr-auto">
             {user && (
-              <Link href="/sellers" passHref={true}>
+              <Link href="sellerPostPage" passHref={true}>
                 <Nav.Link>My Posts</Nav.Link>
               </Link>
             )}
